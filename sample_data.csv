@@ -1,0 +1,6 @@
+Asset,Asset_Value,Likelihood,Impact
+Customer Database,500000,0.40,0.60
+Payment Processing Server,800000,0.30,0.80
+Employee Laptops,100000,0.50,0.30
+Company Website,150000,0.60,0.40
+Internal Email System,200000,0.35,0.50
